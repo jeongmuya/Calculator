@@ -1,8 +1,6 @@
 # iOS Calculator Clone
 
-<p align="center">
-  <img src="screenshot.png" width="300" alt="Calculator Screenshot">
-</p>
+
 
 ## 📱 프로젝트 소개
 
@@ -132,12 +130,4 @@ private func makeButton(withTitle title: String) -> UIButton {
   <img src="screenshot3.png" width="200" alt="Dark Mode">
 </p>
 
-## 🔄 향후 업데이트 계획
 
-- [ ] 단위 테스트 추가
-- [ ] SwiftUI 버전 구현
-- [ ] 계산 기록 저장 기능
-- [ ] 추가 연산 기능 (제곱, 제곱근 등)
-- [ ] 햅틱 피드백 개선
-
-## 🤝 기여하
