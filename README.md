@@ -125,9 +125,7 @@ private func makeButton(withTitle title: String) -> UIButton {
 ## 📱 스크린샷
 
 <p align="center">
-  <img src="IMG_7693.png" width="200" alt="Main Screen">
-  <img src="screenshot2.png" width="200" alt="Calculation">
-  <img src="screenshot3.png" width="200" alt="Dark Mode">
+  <img src="IMG_7693.PNG" width="200" alt="Calculation">
 </p>
 
 
